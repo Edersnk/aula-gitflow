@@ -7,5 +7,5 @@ func main() {
 	fmt.Println("Feature-XPTO")
 	fmt.Println("Release")
 	fmt.Println("Hotfix")
-	fmt.Println("Hotfix")
+	fmt.Println("Novo-Hotfix")
 }
